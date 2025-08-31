@@ -31,7 +31,6 @@ Bạn có thể sử dụng `curl` hoặc một tập lệnh Python để kiểm
 
 #### **Test Endpoint `/process-groups`:**
 
-Tạo một tệp `test_payload.json` với nội dung sau. Ví dụ này bao gồm hai công ty với các giá trị khác nhau cho `Profitability` để minh họa cách xếp hạng hoạt động.
 
 ```json
 {
